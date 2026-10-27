@@ -7,6 +7,7 @@
 set -uo pipefail
 TEAM="JT9FY7PP7K"
 BUNDLE_ID="fr.releve.app"
+ZIP_URL="https://github.com/LucasHRCHatReply/releve-releases/releases/latest/download/Releve.zip"
 fail() { echo "\nÉCHEC : $*" >&2; exit 1; }
 step() { echo "\n[$1/3] $2"; }
 
