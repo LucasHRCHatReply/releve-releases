@@ -2,8 +2,9 @@
 
 Relève vit dans la barre des menus et tient à jour toutes les apps de la collection (Pince, Jauge, Penombre, Filoir,
 Glisse, Veillon, Lueur, Corolle, AutoFolderIcon…) : elle les trouve sur ce Mac, dit lesquelles sont en retard et les
-met toutes à jour d'un coup — empreinte et signature contrôlées, l'ancienne version reste en place si quoi que ce soit
-échoue. Elle montre aussi les apps pas encore installées. Aucun compte, aucune télémétrie.
+met toutes à jour d'un coup. Une mise à jour n'est installée que si son empreinte est juste et si elle porte la
+signature de l'éditeur ; si la nouvelle version ne démarre pas ou ne se vérifie pas, l'ancienne est remise toute seule.
+Elle montre aussi les apps pas encore installées. Aucun compte, aucune télémétrie.
 
 Ce dépôt ne contient que les versions à installer. Le code source n'est pas public.
 
